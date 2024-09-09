@@ -1,0 +1,19 @@
+{
+    "name": "Centro de Formação Profissional Se Deus Quiser",
+    "short_name": "Se Deus Quiser",
+    "start_url": ".",
+    "display": "standalone",
+    "background_color": "#f71d7f",
+    "theme_color": "#f71d7f",
+    "icons": [
+      {
+        "src": "/path/to/icon-192x192.png",
+        "type": "assets/img/favicon.png"
+      },
+      {
+        "src": "/path/to/icon-512x512.png",
+        "type": "assets/img/favicon.png"
+      }
+    ]
+  }
+  
